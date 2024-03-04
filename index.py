@@ -5,8 +5,8 @@ Created on Mon Mar  4 19:38:32 2024
 @author: Carlo
 """
 
-name = "Mark";
-num = 1
+name = "Carlo";
+num = 2;
 
 print("-------------------");
 print("Hello GitHub World!");
